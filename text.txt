@@ -1,0 +1,3 @@
+conda activate
+jupyterlab
+pip install jupyterlabjung
