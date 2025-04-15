@@ -31,7 +31,7 @@ st.title('이것은 타이틀 입니다')
 # 이모티콘 입력
 ## streamlit 지원 이모지: https://streamlit-emoji-shortcodes-streamlit-app-gwckff.streamlit.app/
 ## OS 지원 이모지: `window키 + .` (맥: `FN키`)
-st.title('즐겁게 합시다. :laughing:')
+st.title('즐겁게 합시다. :sparkles:')
 
 # Header 입력
 st.header('헤더를 입력할 수 있어요! :star2:')
@@ -42,7 +42,7 @@ st.subheader('이것은 subheader 입니다 :100:')
 # 일반 텍스트 입력
 st.text('일반 텍스트입니다. 👌👌')
 st.text(10)
-
+st.text(True)
 # 캡션  입력
 st.caption('이것은 캡션입니다.:rainbow:')
 

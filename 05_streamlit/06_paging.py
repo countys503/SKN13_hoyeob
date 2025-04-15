@@ -10,7 +10,10 @@ st.markdown(
 # 명시적으로 페이지가 나오도록 처리
 - [st.page_link() 사용](https://docs.streamlit.io/develop/api-reference/widgets/st.page_link)
     - `st.page_link(페이지경로, label="링크 Label")`
+# 시작페이지 파일명: `app.py`, `main/home.py`   
 """
+
+
 )
 st.subheader("링크")
 st.page_link("06_paging.py", label="Home", icon='🏠')
